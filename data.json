@@ -1,0 +1,14 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "product_code": "P1001",
+      "product_desc": "Televisi"
+    },
+    {
+      "id": 2,
+      "product_code": "P1002",
+      "product_desc": "Kulkas"
+    }
+  ]
+}
